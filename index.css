@@ -1,0 +1,72 @@
+body{
+
+background-color: blueviolet;
+
+
+}
+.survey-form{
+    text-align: center;
+    color: #ffffff;
+
+}
+.text-center{
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+.form-control{
+    padding: 2rem ;
+    background-color: indigo;
+    width: 60%;
+    margin: 0px 289px;
+    color: #ffffff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.name{
+    width: 80%;
+    padding: 5px 5px;
+    border-radius: 3px solid;
+}
+.email{
+    width: 80%;
+    padding: 5px 5px;
+    border-radius: 3px solid;
+}
+.age{
+    width: 80%;
+    padding: 5px 5px;
+    border-radius: 3px solid;
+}
+.role{
+    width: 80%;
+    padding: 5px 5px;
+    border-radius: 3px solid;
+}
+.select{
+    width: 80%;
+    padding: 5px 5px;
+    border-radius: 3px solid;
+}
+.holder{
+    width: 80%;
+    height: 90px;
+    
+    border-radius: 3px;
+    border: none;
+}
+button{
+    width: 82%;
+    height: 30px;
+    font-size: 18px;
+    background-color: teal;
+    border-radius: 3px;
+    padding: 5px;
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+button:hover{
+    background-color:darkmagenta;
+}
